@@ -1,6 +1,6 @@
 # Rice Price Movement Prediction in the Philippines (2019–2026)
 
-**Subject:** ISY122 – Data Analytics and Machine Learning  
+**Subject:** ISY122 
 **Project Title:** Temporal and Regional Determinants of Rice Price Movement in the Philippines: A Random Forest Classification Analysis of WFP Food Price Data (2019–2026)
 
 ---
